@@ -12,7 +12,7 @@ class persona(): # clase persona
         self.nombre=nombre
         self.edad=edad
 
-maikel=persona("Paul Calderón", 30)
+paul=persona("Paul Calderón", 30)
 
 # refactorice el siguente codigo 
 # medinate expresiones aumentadas https://zephyrnet.com/es/10-formas-de-refactorizar-su-c%C3%B3digo-Python/
